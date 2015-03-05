@@ -3,7 +3,7 @@ mapsBR
 
 Mapas das regiões brasileiras
 
-Para instalação do pacote **```mapsBR```  ** use a função **```install_github()```** do pacote **```devtools```**.
+Para instalação do pacote **```mapsBR```** use a função **```install_github()```** do pacote **```devtools```**.
 
 ```{r}
 install.package('devtools') #instala pacote devtools
