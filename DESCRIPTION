@@ -1,9 +1,11 @@
 Package: mapsBR
 Type: Package
-Title: Mapas políticos do Brasil.
+Title: Mapas politicos do Brasil.
 Version: 1.0
 Date: 2014-12-11
-Author: Luís Gustavo Silva e Silva
-Maintainer: Luís Gustavo Silva e Silva <lgsilvaesilva@gmail.com>
-Description: Este pacote foi desenvolvido para facilitar a importação dos mapas políticos do Brasil. Os mapas disponíveis neste pacote são: municípios, micro região, mesoregião, unidades federativas, regiões e regionais de saúde.
+Author: Lu??s Gustavo Silva e Silva
+Maintainer: Lu??s Gustavo Silva e Silva <lgsilvaesilva@gmail.com>
+Description: Este pacote foi desenvolvido para facilitar a importa????o dos mapas pol??ticos do Brasil. Os mapas disponiveis neste pacote sao: munic??pios, micro regi??o, mesoregi??o, unidades federativas, regi??es e regionais de sa??de.
 License: GPL
+Imports: 
+  sp
